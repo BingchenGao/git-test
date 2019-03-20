@@ -1,4 +1,4 @@
-package com.soft1841;
+package com.soft1841.list;
 /**
  * jdk8中同步时间和日期
  * author 高丙晨

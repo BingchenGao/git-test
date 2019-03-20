@@ -1,4 +1,4 @@
-package com.soft1841;
+package com.soft1841.list;
 
 public class StringTest {
     //定义次数

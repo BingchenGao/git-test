@@ -1,4 +1,4 @@
-package com.soft1841;
+package com.soft1841.list;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
